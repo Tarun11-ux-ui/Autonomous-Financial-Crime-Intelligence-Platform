@@ -173,6 +173,4 @@ Use this sequence for a live presentation:
 
 - The current local LLM integration uses `phi3`.
 - If you want a stronger local model later, you can switch to `phi3.5`.
-## License
 
-Add your preferred license here before public release.
