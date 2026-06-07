@@ -95,6 +95,16 @@ This reads `data/submission.csv`, keeps the same case-selection and investigator
 
 **Note:** Make sure you've run `python main.py` first to generate the submission.csv file.
 
+<img width="1898" height="911" alt="Screenshot 2026-06-07 170816" src="https://github.com/user-attachments/assets/0272ae0b-e35c-45b6-b2e0-1b417547c6a9" />
+
+<img width="1881" height="801" alt="Screenshot 2026-06-07 182808" src="https://github.com/user-attachments/assets/5ba97605-f82e-4aaa-8acf-2a5937e03454" />
+
+<img width="1896" height="911" alt="Screenshot 2026-06-07 183017" src="https://github.com/user-attachments/assets/61e948ed-cc9c-487f-a480-53356b4894d7" />
+
+<img width="1882" height="597" alt="Screenshot 2026-06-07 183046" src="https://github.com/user-attachments/assets/1d4e8173-c7aa-40d0-9733-4ea23a39b22e" />
+
+
+
 ## Final Output
 
 The main deliverable is `data/submission.csv`, which includes:
@@ -176,16 +186,7 @@ Use this sequence for a live presentation:
 - Large generated outputs are stored in compressed format (.gz) to reduce repository size.
   To access the full results, extract submission.csv.gz.
 
-  ## Images
-<img width="1898" height="911" alt="Screenshot 2026-06-07 170816" src="https://github.com/user-attachments/assets/0272ae0b-e35c-45b6-b2e0-1b417547c6a9" />
-
-<img width="1881" height="801" alt="Screenshot 2026-06-07 182808" src="https://github.com/user-attachments/assets/5ba97605-f82e-4aaa-8acf-2a5937e03454" />
-
-<img width="1896" height="911" alt="Screenshot 2026-06-07 183017" src="https://github.com/user-attachments/assets/61e948ed-cc9c-487f-a480-53356b4894d7" />
-
-<img width="1882" height="597" alt="Screenshot 2026-06-07 183046" src="https://github.com/user-attachments/assets/1d4e8173-c7aa-40d0-9733-4ea23a39b22e" />
-
-
+  
 
 
 
