@@ -173,6 +173,10 @@ Use this sequence for a live presentation:
 
 - The current local LLM integration uses `phi3`.
 - If you want a stronger local model later, you can switch to `phi3.5`.
+- Large generated outputs are stored in compressed format (.gz) to reduce repository size.
+  To access the full results, extract submission.csv.gz.
+
+  ## Images
 <img width="1898" height="911" alt="Screenshot 2026-06-07 170816" src="https://github.com/user-attachments/assets/0272ae0b-e35c-45b6-b2e0-1b417547c6a9" />
 <img width="1881" height="801" alt="Screenshot 2026-06-07 182808" src="https://github.com/user-attachments/assets/5ba97605-f82e-4aaa-8acf-2a5937e03454" />
 <img width="1896" height="911" alt="Screenshot 2026-06-07 183017" src="https://github.com/user-attachments/assets/61e948ed-cc9c-487f-a480-53356b4894d7" />
