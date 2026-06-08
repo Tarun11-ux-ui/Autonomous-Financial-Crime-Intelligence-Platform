@@ -103,6 +103,10 @@ This reads `data/submission.csv`, keeps the same case-selection and investigator
 
 <img width="1882" height="597" alt="Screenshot 2026-06-07 183046" src="https://github.com/user-attachments/assets/1d4e8173-c7aa-40d0-9733-4ea23a39b22e" />
 
+## Demo Video (2 minutes 35 seconds)
+
+https://drive.google.com/file/d/1vsvz0OrsOzojo34Aa3uSIh-1tbO3f5yu/view?usp=drivesdk
+
 
 
 ## Final Output
@@ -185,6 +189,9 @@ Use this sequence for a live presentation:
 - If you want a stronger local model later, you can switch to `phi3.5`.
 - Large generated outputs are stored in compressed format (.gz) to reduce repository size.
   To access the full results, extract submission.csv.gz.
+- Dataset used in this project
+  https://www.kaggle.com/datasets/abhyudayrbih/rbih-nfpc-phase-2
+  
 
   
 
